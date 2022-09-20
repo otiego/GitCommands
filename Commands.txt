@@ -3,4 +3,5 @@ git status-->Checks status of a repo
 git remote-v -->This checks the remotes that have been created in github ready for pushing
 git pull origin <branch name> -->This pulls changes from github to your machine
 git checkout -b < branch-name> -->Creates a new branch
+git clone
 
