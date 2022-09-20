@@ -1,0 +1,4 @@
+git init-->Initializes git on the project directory
+git status-->Checks status of a repo
+git remote-v -->This checks the remotes that have been created in github ready for pushing
+
