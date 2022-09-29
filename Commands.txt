@@ -5,3 +5,5 @@ git pull origin <branch name> -->This pulls changes from github to your machine
 git checkout -b < branch-name> -->Creates a new branch
 git clone <repo url
 rm-rf .git
+git add<name of a file>-stage files for commit
+git add . -->stages all changes for commit
