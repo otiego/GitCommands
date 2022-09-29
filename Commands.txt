@@ -8,3 +8,7 @@ git clone <repo url
 rm-rf .git-->removes git from non working folder
 git add<name of a file>-stage files for commit
 git add . -->stages all changes for commit
+git clean-->Removes untracked files from the working directory. This is the logical counterpart to git 
+reset, which (typically) only operates on tracked files.
+git commit --amend-->Passing the --amend flag to git commit lets you amend the most recent commit. This is very 
+useful when you forget to stage a file or omit important information from the commit message.
